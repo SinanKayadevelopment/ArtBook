@@ -5,7 +5,7 @@ plugins {
 android {
     namespace 'com.sinan.artbooksinanjava'
     compileSdk 32
-
+ 
     defaultConfig {
         applicationId "com.sinan.artbooksinanjava"
         minSdk 23
