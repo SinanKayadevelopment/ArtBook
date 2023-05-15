@@ -5,7 +5,7 @@
       <Target>
         <type value="QUICK_BOOT_TARGET" />
         <deviceKey>
-          <Key>
+          <Key> 
             <type value="VIRTUAL_DEVICE_PATH" />
             <value value="C:\Users\user\.android\avd\Pixel_4_API_32.avd" />
           </Key>
